@@ -16,7 +16,7 @@ Easy, fast, and cheap LLM serving for everyone
 
 ---
 
-**Ray Summit CPF is Open (June 4th to June 20th)!**
+**Ray Summit CFP is Open (June 4th to June 20th)!**
 
 There will be a track for vLLM at the Ray Summit (09/30-10/02, SF) this year!
 If you have cool projects related to vLLM or LLM inference, we would love to see your proposals.
